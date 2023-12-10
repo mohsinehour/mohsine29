@@ -5,9 +5,9 @@ About me:
 - 🌱 I’m currently enrolled in ALX Software Engineering program,
 - 💞️ I’m looking to collaborate on projects related to software development,
 - 📫 How to reach me:
--     - Email: hourmatallahmohsine@gmail.com
--     - Twitter: https://twitter.com/mohsinehour_
--     - Linkedin: https://www.linkedin.com/in/mohsine-hourmat-allah/
+-    - Email: hourmatallahmohsine@gmail.com
+     -  Twitter: https://twitter.com/mohsinehour_
+     -  Linkedin: https://www.linkedin.com/in/mohsine-hourmat-allah/
 
 <!---
 mohsine29/mohsine29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
